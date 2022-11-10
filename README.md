@@ -5,7 +5,7 @@ The Canoe Gaming DeFi SDK fully support mobile game developers and provide a rev
 
 ### Wallet module
 
-### Dex module
+### DEX module
 
 ## Dependecncies
 
@@ -30,5 +30,6 @@ Official Version 0.5 Month
 Beta Milestones & Offcial Milestones
 
 ## Milestone1
+
 
 ## Milestone2
