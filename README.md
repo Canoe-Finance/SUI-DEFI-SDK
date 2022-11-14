@@ -1,23 +1,33 @@
 # SUI-Gaming-DEFI-SDK
-The Canoe Gaming DeFi SDK fully support mobile game developers and provide a revene-sharing dex features for developers.
+The Canoe Gaming DeFi SDK fully support mobile game developers and provide a revene-sharing aggregator dex features for developers.
 
 ## Features
 
 ### Wallet module
 
-### DEX module
+### Aggregator DEX module
 
+1. [MovEX](https://www.movex.exchange/)
+2. [Kx.finance](https://www.kx.finance/)
+3. [Kriya DEX](https://efficacy.finance/kriya-sui-dex/)
+4. [SEA Protocol](https://www.seadex.org/)
+5. [Suidex](https://suidex.io/)
+6. [0T](https://onchain.trade/)
+ 
 ## Dependecncies
+
 
 ## External packages
 
+
 ## Step-by-step instructions
+
 
 ## Canoe Aliens, a mobile RPG adventure game powerd by Canoe SDK.
 
-Canoe Aliens is an endless platformer game with 40 levels!  Fight with your enemies to reach destination. Be a legendary alien with this endless journey. You will come up with new themes and level environments. Alien's Adventure is real fun game with new worlds.
+Canoe Aliens is an endless platformer game with 40 levels!  Fight with your enemies to reach destination. Be a legendary alien with this endless journey. You will come up with new themes and level environments. Alien's Adventure is real fun game with new worlds, you can trade your token and coins in trade part.
 
-The Canoe Aliens integrated SUI wallet module and SWAP module with Canoe SDK.
+The Canoe Aliens integrated SUI wallet module and Trade module with Canoe SDK.
 
 # Milestones
 
@@ -29,7 +39,8 @@ Official Version 0.5 Month
 
 Beta Milestones & Offcial Milestones
 
-## Milestone1
+## Milestone1 Aggreagator DEX Contract.
 
 
-## Milestone2
+
+## Milestone2 A RPG mobile game integrate with Aggregator DEX.
