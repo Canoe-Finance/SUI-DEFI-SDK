@@ -35,7 +35,7 @@ Total Estimated Duration: 2.5 Months
 
 DEX aggregator contract: 1.5 Month
 
-Campe Aliens: 1 Month
+Canoe Aliens: 1 Month
 
 Beta Milestones & Offcial Milestones
 
