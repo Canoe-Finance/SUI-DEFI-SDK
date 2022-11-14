@@ -31,11 +31,11 @@ The Canoe Aliens integrated SUI wallet module and Trade module with Canoe SDK.
 
 # Milestones
 
-Total Estimated Duration: 2 Months
+Total Estimated Duration: 2.5 Months
 
-Beta Version: 1.5 Month
+DEX aggregator contract: 1.5 Month
 
-Official Version 0.5 Month
+Campe Aliens: 1 Month
 
 Beta Milestones & Offcial Milestones
 
