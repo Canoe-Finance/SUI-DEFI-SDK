@@ -39,8 +39,12 @@ Canoe Aliens: 1 Month
 
 Beta Milestones & Offcial Milestones
 
-## Milestone1 Aggreagator DEX Contract.
+## Milestone1  DEX Contract.
 
 
 
 ## Milestone2 A RPG mobile game integrate with Aggregator DEX.
+
+# Future Roadmap
+
+
