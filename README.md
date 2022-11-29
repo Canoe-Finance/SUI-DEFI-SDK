@@ -1,33 +1,39 @@
-# SUI-Gaming-DEFI-SDK
-The Canoe Gaming DeFi SDK fully support mobile game developers and provide a revene-sharing aggregator dex features for developers.
+# SUI-Aggregator-DEX-Contract
+![image](https://user-images.githubusercontent.com/35088567/204440347-c9614c12-0afe-4591-ad51-2e2b0b1b4ab4.png)
+Pikeman, part of CANOE DEFI SDK ecosystem, is building a multi-referral aggregator DEX sdk. 
+
+# Background
+<img width="975" alt="image" src="https://user-images.githubusercontent.com/35088567/204496521-a42aabe5-a247-42b1-b946-3b9eca94f019.png">
+
+- Align with Canoe's vision, DeFi at player's fingertips, Pikeman aim to develop a consumer-driven DEX infra for more players and gamers instead of trader-driven. 
+- Canoe team made great achievement in EVM and RUST Chain, aggragator dex infra with DODO(EVM) and [Jupiter(Solana)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-jupiters-liquidity-aggregator-1eedf665d723)
+- Canoe team delivered DeFi and dex infra on L1s, and got the grant and investment from Polygon and Rangers.
+- Game will be the next big things, and Canoe-gaming-DeFi SDK is listed on Solana Games Kit by Solana foundation team.
 
 ## Features
-
-### Wallet module
-
-### Aggregator DEX module
-
+### Aggregator contract
 1. [MovEX](https://www.movex.exchange/)
 2. [Kx.finance](https://www.kx.finance/)
 3. [Kriya DEX](https://efficacy.finance/kriya-sui-dex/)
 4. [SEA Protocol](https://www.seadex.org/)
 5. [Suidex](https://suidex.io/)
 6. [0T](https://onchain.trade/)
- 
-## Dependecncies
+Pikeman Swap Aggregation brings to users the best price routes, best token selection in SUI ecosystem.
 
 
-## External packages
+### SUI Aggregator DEX Architecture
+
+![SUI AGGREGATOR](https://user-images.githubusercontent.com/35088567/204470696-99c7a723-c1a0-4a73-8699-69291ce58fb8.png)
+
+### Pikeman unity DEX SDK
+
+#### Dependecncies
+
+#### External packages
+
+#### Step-by-step instructions
 
 
-## Step-by-step instructions
-
-
-## Canoe Aliens, a mobile RPG adventure game powerd by Canoe SDK.
-
-Canoe Aliens is an endless platformer game with 40 levels!  Fight with your enemies to reach destination. Be a legendary alien with this endless journey. You will come up with new themes and level environments. Alien's Adventure is real fun game with new worlds, you can trade your token and coins in trade part.
-
-The Canoe Aliens integrated SUI wallet module and Trade module with Canoe SDK.
 
 # Milestones
 
