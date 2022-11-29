@@ -6,19 +6,21 @@ Pikeman, part of CANOE DEFI SDK ecosystem, is building a multi-referral aggregat
 <img width="975" alt="image" src="https://user-images.githubusercontent.com/35088567/204496521-a42aabe5-a247-42b1-b946-3b9eca94f019.png">
 
 - Align with Canoe's vision, DeFi at player's fingertips, Pikeman aim to develop a consumer-driven DEX infra for more players and gamers instead of trader-driven. 
-- Canoe team made great achievement in EVM and RUST Chain, aggragator dex infra with DODO(EVM) and [Jupiter(Solana)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-jupiters-liquidity-aggregator-1eedf665d723)
-- Canoe team delivered DeFi and dex infra on L1s, and got the grant and investment from Polygon and Rangers.
+- Canoe team made great achievement in EVM and RUST Chain in aggragator dex infra, [DODO(EVM)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-dodos-aggregation-algorithm-d35a6b913cb5) and [Jupiter(Solana)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-jupiters-liquidity-aggregator-1eedf665d723)
+- Canoe team delivered DeFi infra on L1s, and got the grant and investment from Polygon and Rangers.
 - Game will be the next big things, and Canoe-gaming-DeFi SDK is listed on Solana Games Kit by Solana foundation team.
 
 ## Features
 ### Aggregator contract
+
+Pikeman Swap Aggregation brings to users the best price routes, best token selection in SUI ecosystem.
+
 1. [MovEX](https://www.movex.exchange/)
 2. [Kx.finance](https://www.kx.finance/)
 3. [Kriya DEX](https://efficacy.finance/kriya-sui-dex/)
 4. [SEA Protocol](https://www.seadex.org/)
 5. [Suidex](https://suidex.io/)
 6. [0T](https://onchain.trade/)
-Pikeman Swap Aggregation brings to users the best price routes, best token selection in SUI ecosystem.
 
 
 ### SUI Aggregator DEX Architecture
@@ -37,20 +39,44 @@ Pikeman Swap Aggregation brings to users the best price routes, best token selec
 
 # Milestones
 
-Total Estimated Duration: 2.5 Months
 
-DEX aggregator contract: 1.5 Month
+## Milestone1 Revenue-sharing Aggregator DEX Contract
 
-Canoe Aliens: 1 Month
+Estimated Duration: 1 Month
 
-Beta Milestones & Offcial Milestones
+| Number | Deliverable | Specification |
+| --- | --- | --- |
+| 0a. | UI/UX finalized | Aggregator swap and revenue-sharing backend. |
+| 0b. | Aggregator module | Aggregator algorithm and contract. |
+| 0c. | Integrate multiple SUI DEX in testnet. | MovEX |
+| 0d. | Revenue-sharing Contract | Multi-referral sharing contract |
 
-## Milestone1  DEX Contract.
+## Milestone2 Product Delivery and User Growth
 
+Estimated Duration: 1 Month
 
+| Number | Deliverable | Specification |
+| --- | --- | --- |
+| 0a. | Testing Event | DEX Promotion on a testing event and grow Twitter follower base to 30k followers. |
+| 0b. | User Growth | Reach 2k users trading on SUI AGGREGATOR DEX |
+| 0c. | Partnership | Partnership with 5 DEX/applications on the SUI ecosystem |
+| 1. a | New feature, Unity-sdk on aggregator swap. | Provide the unity method to call revenue-sharing swap. |
+| 1.b | Admin Backend | A dashboard to mange revenue-sharing trading fee. |
 
-## Milestone2 A RPG mobile game integrate with Aggregator DEX.
+## Milestone3 Gamefi Mobile app use case
+
+Estimated Duration: 1 Month
+
+| Number | Deliverable | Specification |
+| --- | --- | --- |
+| 0a. | Testing Event | DEX Promotion on a testing event within mobile socialfi app and grow Twitter follower base to 30k followers. |
+| 0b. | User Growth | Reach 2k users downloads, sign-ups, and opened a SUI wallet |
+| 0c. | Partnership | Partnership with 5 DEX/applications on the SUI ecosystem |
+| 1. | New feature, Unity-sdk on aggregator swap. | Provide the unity method to call revenue-sharing swap. |
+| 2. | New feature, revenue-sharing DEX for partners | Gamefi partners in Canoe WARRIO can get revenue-sharing through DEX and NFT trade. |
+| 3. | Open-source SUI-DeFi SDK | Support more gamefi project by Canoe-SUI-DeFi-SDK |
 
 # Future Roadmap
+GAMEFI PROJECT LAUCH POWERD BY PIKEMAN SDK.
 
 
