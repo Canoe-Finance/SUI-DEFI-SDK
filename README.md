@@ -17,8 +17,7 @@ Pikeman Swap Aggregation brings to users the best price routes, best token selec
 
 Our goal is to create an exchange that is fast and secure enough for high-volume trading, while also being easy enough for users who are new to cryptocurrencies or technical experts alike. **We think that this will be achieved by using state channels on Sui's network. **
 
-Pikeman is the key liquidity aggregator for SUI, offering the widest range of tokens and best route discovery between any token pair. 
-We aim to provide the most powerful tools for game developers to allow them to easily access revenue-sharing swap in their application.
+Pikeman SDK aim to be the key liquidity aggregator for SUI, and provide the most powerful tools for game developers to allow them to easily access revenue-sharing swap in their application.
 
 1. [MovEX](https://www.movex.exchange/)
 2. [Kx.finance](https://www.kx.finance/)
