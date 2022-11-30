@@ -5,15 +5,20 @@ Pikeman, part of CANOE DEFI SDK ecosystem, is building a multi-referral aggregat
 # Background
 <img width="975" alt="image" src="https://user-images.githubusercontent.com/35088567/204496521-a42aabe5-a247-42b1-b946-3b9eca94f019.png">
 
-- Align with Canoe's vision, DeFi at player's fingertips, Pikeman aim to develop a consumer-driven DEX infra for more players and gamers instead of trader-driven. 
-- Canoe team made great achievement in EVM and RUST Chain in aggragator dex infra, [DODO(EVM)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-dodos-aggregation-algorithm-d35a6b913cb5) and [Jupiter(Solana)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-jupiters-liquidity-aggregator-1eedf665d723)
-- Canoe team delivered DeFi infra on L1s, and got the grant and investment from Polygon and Rangers.
-- Game will be the next big things, and Canoe-gaming-DeFi SDK is listed on Solana Games Kit by Solana foundation team.
+-  In line with Canoe's vision of DeFi at the player's fingertips, Pikeman intends to build a consumer-driven DEX infrastructure for more players and gamers rather than a trader-driven infrastructure. 
+- The Canoe team made significant contributions to the EVM and RUST Chain in the aggregator dex infra, [DODO(EVM)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-dodos-aggregation-algorithm-d35a6b913cb5) and [Jupiter(Solana)](https://medium.com/blog-canoe-finance/canoe-finance-integrates-jupiters-liquidity-aggregator-1eedf665d723)
+- The Canoe team delivered DeFi infra on L1s and got the grant and investment from Polygon and Rangers.
+- Canoe-gaming-Defi SDK is listed on the Solana Games Kit by the Solana Foundation team. It will be the next big thing in gaming on SUI ecosystem.
 
 ## Features
 ### Aggregator contract
 
 Pikeman Swap Aggregation brings to users the best price routes, best token selection in SUI ecosystem.
+
+Our goal is to create an exchange that is fast and secure enough for high-volume trading, while also being easy enough for users who are new to cryptocurrencies or technical experts alike. **We think that this will be achieved by using state channels on Sui's network. **
+
+Pikeman is the key liquidity aggregator for SUI, offering the widest range of tokens and best route discovery between any token pair. 
+We aim to provide the most powerful tools for game developers to allow them to easily access revenue-sharing swap in their application.
 
 1. [MovEX](https://www.movex.exchange/)
 2. [Kx.finance](https://www.kx.finance/)
